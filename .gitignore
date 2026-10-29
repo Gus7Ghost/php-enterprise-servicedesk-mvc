@@ -1,0 +1,7 @@
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+vendor/
+.env
+.DS_Store
+Thumbs.db
